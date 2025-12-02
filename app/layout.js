@@ -33,6 +33,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+        <meta name="google-site-verification" content="YBW48LQtxgCo_YByWDV1YDxRdDH4o_LgPw1ImBp_qU4" />
         {/* JSON-LD Structured Data (Google Knowledge Graph) */}
         <script
           type="application/ld+json"
